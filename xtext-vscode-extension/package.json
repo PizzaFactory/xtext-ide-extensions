@@ -3,15 +3,16 @@
     "displayName": "Xtext Language",
     "description": "Xtext Grammar Specification Language",
     "version": "0.4.0",
-    "publisher": "grammarcraft",
+    "author": "grammarcraft",
+    "publisher": "PizzaFactory",
     "license": "SEE LICENSE IN LICENSE.txt",
-    "homepage": "https://github.com/kuniss/xtext-ide-extensions/blob/master/xtext-vscode-extension/README.md",
+    "homepage": "https://github.com/PizzaFactory/xtext-ide-extensions/blob/master/xtext-vscode-extension/README.md",
     "bugs": {
-        "url": "https://github.com/kuniss/xtext-ide-extensions/issues"
+        "url": "https://github.com/PizzaFactory/xtext-ide-extensions/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/kuniss/xtext-ide-extensions.git"
+        "url": "https://github.com/PizzaFactory/xtext-ide-extensions.git"
     },
     "engines": {
         "vscode": "^1.31.0"
